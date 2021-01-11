@@ -2,11 +2,9 @@ from PIL import Image
 import datetime
 import glob
 
-"""
- Original author: Kadir Lofca
- https://github.com/lofcakadir
- CodingProjects -> reverseString: This project will take a string and reverse it so that every character in order is placed in their opposite counterparts.
-"""
+# Original author: Kadir Lofca
+# github.com/lofcakadir
+# CodingProjects -> reverseString: This project will take a string and reverse it so that every character in order is placed in their opposite counterparts.
 
 # Array that will hold the images/frames.
 frames = []
